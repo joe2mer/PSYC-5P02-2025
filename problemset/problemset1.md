@@ -42,7 +42,7 @@ No, these two files are not the same. This is because the history.txt file inclu
 
 *6. Complete the introduction to GitHub tutorial. Screenshot the message you receive when you complete the tutorial, and insert the image into your markdown file. 
 
-![Completed the GitHub tutorial!](~/PSYC-5P02-2025/problemset/'GitHub Introduction.png')
+![Completed the GitHub tutorial!](/PSYC-5P02-2025/problemset/'GitHub Introduction.png')
 
 
 
